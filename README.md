@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=rbo&theme=transparent&show_icons=true)
+
 <!--
 **rbo/rbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
